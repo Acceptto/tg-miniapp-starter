@@ -140,7 +140,3 @@ All the needed checks are done:
 * The bot checks the signatures of the Mini-app requests and validates the user
 * The bot checks the token of initialization request sent during deployment
 * CORS between the frontend and the backend is locked down to specifically used domains
-
-## Sample bot
-
-You can try out the bot at [@group_meetup_bot](https://t.me/group_meetup_bot).
